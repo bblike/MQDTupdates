@@ -5,7 +5,7 @@ Later updates will include the code and changes differ from their original versi
 
 Here is the data comparisons for Cs, Sr+ and their quantum defect function parameters.
 Result for A parameter for Cs
-| Title  	| \delta_0  	      | \delta_2  	      | \delta_4  	        | \delta_6          |
+| Title  	| $\delta_0$  	      | $\delta_2$  	      | $\delta_4$  	        | $\delta_6$          |
 |---------|-----------------|-----------------|-------------------|------------------|
 | 0.001	  | 4.0510446143	  | 0.4686103292	  | -23.9948060697	  | 3940.7742912986  |
 | 0.01    | 4.0510446177	  | 0.4686085285	  | -23.9947430923	  | 3940.7739034433  |
@@ -17,7 +17,7 @@ Result for A parameter for Cs
 
 ---
 Result for the necessity of $\delta_6$ parameter
-| Results for | \delta_0 (asymptote)                 | \delta_2                     | \delta_4                     | \delta_6                     |
+| Results for | $\delta_0$ (asymptote)                 | $\delta_2$                     | $\delta_4$                     | $\delta_6$                     |
 |-------------|--------------------------------------|-----------------------------|-----------------------------|-----------------------------|
 | 0.001       | 4.0510446143 ± 0.0001767079          | 0.4686103292 ± 0.0815066814 | -23.9948060697 ± 6.1337448540 | 3940.7742912986 ± 110.6091270488 |
 |             | **4.0547299551 ± 0.0008509668**      | **-2.1066891453 ± 0.2237092659** | **191.0985896810 ± 6.4385361953** | nan                         |
@@ -36,7 +36,7 @@ Result for the necessity of $\delta_6$ parameter
 
 ---
 Result for Sr+ Rc prameter evaluation for l=0 state
-| Title  | \delta_0      | \delta_2      | \delta_4        | \delta_6       |
+| Title  | $\delta_0$      | $\delta_2$      | $\delta_4$        | $\delta_6$       |
 |--------|--------------|--------------|--------------|--------------|
 | 0.4    | 3.7237824173 | -1.3857942763 | -33.1819914775 | 31.7882239502 |
 | 0.5    | 3.3916359978 | 0.7484062719  | -36.7856502542 | 33.5896241245 |
